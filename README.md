@@ -6,6 +6,8 @@ use this like a landing page for project
 A simple linear regression project comparing two candidate models for
 forecasting monthly revenue for a fictional company, **Hotazel Steam**.
 
+Author: Rayah Suleman
+
 ## Overview
 
 The notebook builds and evaluates two single-variable OLS (Ordinary Least
